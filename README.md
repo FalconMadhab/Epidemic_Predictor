@@ -4,3 +4,4 @@ Health care is one of the most essential parts of living. There have been a lot 
 
 # Results
 ![alt text](https://github.com/FalconMadhab/Epidemic_Predictor/blob/master/Test%20Data%20Set%20Availability%20with%20Test%20Results/ROC_stratified_kfold.png)
+![alt text](https://github.com/FalconMadhab/Epidemic_Predictor/blob/master/Test%20Data%20Set%20Availability%20with%20Test%20Results/confusion_matrix.png)
